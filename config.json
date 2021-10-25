@@ -8,7 +8,7 @@
     "rawdata": "NEDO.xlsx",
     
     "step 1の結果ファイル": "comment",
-    "stepresultfile": "lungnodules_with_thinslice_CT",
+    "step1resultfile": "lungnodules_with_thinslice_CT.xlsx",
 
     "step 2の結果ファイルのprefix": "comment",
     "step2resultfile": "extracted_CT_"
