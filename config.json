@@ -1,0 +1,15 @@
+{
+    "config.json": "NEDO Lung Qualifyスクリプトのコンフィグ",
+
+    "データを置くディレクトリ": "個人情報保護に留意すること",
+    "datadir": "~/Documents/NEDOlungqualify",
+
+    "生データのファイル名": "comment",
+    "rawdata": "NEDO.xlsx",
+    
+    "step 1の結果ファイル": "comment",
+    "stepresultfile": "lungnodules_with_thinslice_CT",
+
+    "step 2の結果ファイルのprefix": "comment",
+    "step2resultfile": "extracted_CT_"
+}
