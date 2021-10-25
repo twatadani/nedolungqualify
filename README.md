@@ -5,6 +5,15 @@ NEDO肺結節予備調査Excelの仕分け
 
 ---
 
+変更履歴
+
+* version 0.1: 
+    * config.jsonを作成してコンフィグ事項を記載する
+    * config.jsonを読み込みdictに保持する
+    * 全データのファイルをopenpyxlで読み込み、読み込みができていることを確認する。
+
+---
+
 ## 生成するファイル
 
 * step 1: 全データ → 「thin slice CTが撮影してある肺結節」へ絞り込む
@@ -23,7 +32,3 @@ $ conda install openpyxl
 ---
 
 ## version 0.1へ向けたTODO
-
-* config.jsonを作成してコンフィグ事項を記載する
-* config.jsonを読み込みdictに保持する
-* 全データのファイルをopenpyxlで読み込み、読み込みができていることを確認する。
