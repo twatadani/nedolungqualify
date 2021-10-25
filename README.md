@@ -1,0 +1,2 @@
+# nedolungqualify
+NEDO肺結節予備調査Excelの仕分け
