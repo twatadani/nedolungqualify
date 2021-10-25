@@ -12,6 +12,7 @@ NEDO肺結節予備調査Excelの仕分け
     * config.jsonを読み込みdictに保持する
     * 全データのファイルをopenpyxlで読み込み、読み込みができていることを確認する。
 * version 0.2: step 1部分の完成
+* version 0.3: CT機種の記述バリエーションを調査するcheck_ct_variation.pyを作成
 
 ---
 
@@ -32,5 +33,4 @@ $ conda install openpyxl
 
 ---
 
-## version 0.2へ向けたTODO
-
+## version 0.3へ向けたTODO
