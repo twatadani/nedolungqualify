@@ -7,7 +7,6 @@ import json
 import os.path
 
 import openpyxl
-from pprint import pprint
 
 __author__ = 'Takeyuki Watadani<twatadani@g.ecc.u-tokyo.ac.jp>'
 __version__ = '0.2'
